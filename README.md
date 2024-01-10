@@ -1,4 +1,5 @@
 # 11152023_peer_code_review_dime
 
-This code is part of the WFP Resilience Window projects. This do file focuses on construction of variables for the agriculture and livestock module of the survey.
-I am not sharing the dataset here. Any feedback on the code is appreciated.
+This code is part of the WFP Resilience Window projects. There are two do files here:
+f_farming_and_livestock_construct.do is where we construct variables for analysis
+f_agriculture_analysis.do is where we run lasso regressions with multiple specifications.
